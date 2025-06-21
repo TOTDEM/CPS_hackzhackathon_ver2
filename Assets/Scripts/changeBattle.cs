@@ -1,12 +1,15 @@
+
+/**
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;//UnityƒGƒ“ƒWƒ“‚ÌƒV[ƒ“ŠÇ—ƒvƒƒOƒ‰ƒ€‚ğ—˜—p‚·‚é
+using UnityEngine.SceneManagement;//Unityï¿½Gï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½Ç—ï¿½ï¿½vï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ğ—˜—pï¿½ï¿½ï¿½ï¿½
 
-public class changeBattle : MonoBehaviour //changeBattle‚Æ‚¢‚¤–¼‘O‚É‚µ‚Ü‚·
+public class changeBattle : MonoBehaviour //changeBattleï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½É‚ï¿½ï¿½Ü‚ï¿½
 {
-    public void change_button_forBattle() //change_button_forBattle‚Æ‚¢‚¤–¼‘O‚É‚µ‚Ü‚·
+    public void change_button_forBattle() //change_button_forBattleï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½É‚ï¿½ï¿½Ü‚ï¿½
     {
-        SceneManager.LoadScene("Battle");//Battle‚ğŒÄ‚Ño‚µ‚Ü‚·
+        SceneManager.LoadScene("Battle");//Battleï¿½ï¿½ï¿½Ä‚Ñoï¿½ï¿½ï¿½Ü‚ï¿½
     }
 }
+**/
