@@ -1,5 +1,5 @@
 
-/**
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,4 +12,3 @@ public class changeBattle : MonoBehaviour //changeBattle�Ƃ������O
         SceneManager.LoadScene("Battle");//Battle���Ăяo���܂�
     }
 }
-**/
