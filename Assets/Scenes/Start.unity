@@ -842,13 +842,13 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 56
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u95C7\u306E\u30B2\u30FC\u30E0\u306E\u59CB\u307E\u308A\u3060\u305C\uFF01\uFF01\uFF01"
+  m_Text: QuizQuest
 --- !u!222 &1830806130
 CanvasRenderer:
   m_ObjectHideFlags: 0
