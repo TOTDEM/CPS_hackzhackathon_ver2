@@ -1966,6 +1966,11 @@ MonoBehaviour:
   correctSprite: {fileID: 21300000, guid: e875dab771cf8c54fb1e96e296a5a361, type: 3}
   incorrectSprite: {fileID: 21300000, guid: 87f251f8697fce7408f7ae744ffc4797, type: 3}
   resultDisplayTime: 3
+  monsterHPSlider: {fileID: 1353696414}
+  damageForAnswerA: 20
+  damageForAnswerB: 40
+  playerHPSlider: {fileID: 709326380}
+  damageOnIncorrect: 10
   choiceAButton: {fileID: 31232387}
   choiceBButton: {fileID: 555693674}
 --- !u!4 &1683104569
